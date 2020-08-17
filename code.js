@@ -4,6 +4,6 @@ const helloWorld = function () {
 }
 
 const sayHello = function () {
-    return "Hello, World!";
+    return "Hello, Jane!";
 }
 
