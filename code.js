@@ -12,3 +12,11 @@ function sayHello(input) {
     }
 }
 
+function isFive(input) {
+    if (input === 5 || input === "5") {
+        return 'true';
+    }
+    else {
+        return 'boolean';
+    }
+}
